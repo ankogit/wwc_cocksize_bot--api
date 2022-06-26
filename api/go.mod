@@ -1,4 +1,4 @@
-module github.com/ankogit/wwc_cocksize_bot--api
+module github.com/ankogit/wwc_cocksize_bot--api/api
 
 go 1.17
 
